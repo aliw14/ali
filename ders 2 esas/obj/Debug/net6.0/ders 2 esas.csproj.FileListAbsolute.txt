@@ -1,0 +1,15 @@
+/Users/ali/Projects/ders 2 esas/ders 2 esas/bin/Debug/net6.0/ders 2 esas
+/Users/ali/Projects/ders 2 esas/ders 2 esas/bin/Debug/net6.0/ders 2 esas.deps.json
+/Users/ali/Projects/ders 2 esas/ders 2 esas/bin/Debug/net6.0/ders 2 esas.runtimeconfig.json
+/Users/ali/Projects/ders 2 esas/ders 2 esas/bin/Debug/net6.0/ders 2 esas.dll
+/Users/ali/Projects/ders 2 esas/ders 2 esas/bin/Debug/net6.0/ders 2 esas.pdb
+/Users/ali/Projects/ders 2 esas/ders 2 esas/obj/Debug/net6.0/ders 2 esas.csproj.AssemblyReference.cache
+/Users/ali/Projects/ders 2 esas/ders 2 esas/obj/Debug/net6.0/ders 2 esas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Projects/ders 2 esas/ders 2 esas/obj/Debug/net6.0/ders 2 esas.AssemblyInfoInputs.cache
+/Users/ali/Projects/ders 2 esas/ders 2 esas/obj/Debug/net6.0/ders 2 esas.AssemblyInfo.cs
+/Users/ali/Projects/ders 2 esas/ders 2 esas/obj/Debug/net6.0/ders 2 esas.csproj.CoreCompileInputs.cache
+/Users/ali/Projects/ders 2 esas/ders 2 esas/obj/Debug/net6.0/ders 2 esas.dll
+/Users/ali/Projects/ders 2 esas/ders 2 esas/obj/Debug/net6.0/refint/ders 2 esas.dll
+/Users/ali/Projects/ders 2 esas/ders 2 esas/obj/Debug/net6.0/ders 2 esas.pdb
+/Users/ali/Projects/ders 2 esas/ders 2 esas/obj/Debug/net6.0/ders 2 esas.genruntimeconfig.cache
+/Users/ali/Projects/ders 2 esas/ders 2 esas/obj/Debug/net6.0/ref/ders 2 esas.dll
